@@ -4,4 +4,4 @@
 - 🔥i'm currently learning Python🐍
 - 🎓i'm currently a first semester associate degree student in software 
 - 🧠i'm also interested in startups
-- 💻repository Goals: share my simple project's codes
+- 💻repository Goal: share my simple project's codes for fun!
