@@ -1,5 +1,5 @@
-## Description👋
-- 🔥i'm currently learning Python🐍
-- 🎓i'm currently a first semester associate degree student in software 
-- 🧠i'm also interested in startups
-- 💻repository Goal: share my simple project's codes for fun!
+## Learning Report Repo!
+### Repository **Goals**🎯
+- 💻 Share the concepts I learn
+- ⌨️ Share the codes I write to practice the concepts
+- 💡 Share ideas for beginners
